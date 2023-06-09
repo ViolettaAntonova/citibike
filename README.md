@@ -38,4 +38,4 @@ Also you can visit my dasboard that is given on top of the page and you could ch
 ![plot](Images/map.png)
 
 # Conclusion
-In conclusion, my analysis represents an overview of trends and patterns for Citi Bike users for a specific time period. With created interactive dashoards and visualisations were highlighted trends in user type, foud trip patterns and extracted insights. 
+In conclusion, my analysis represents an overview of trends and patterns for Citi Bike users for a specific time period. With created interactive dashoards and visualisations were highlighted trends in user type, found trip patterns and extracted insights. 
